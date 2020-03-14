@@ -6,10 +6,19 @@
     <description>Recent content on My New Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Mar 2020 21:08:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 21:46:24 +0800</lastBuildDate>
     
 	<atom:link href="https://zia123-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Location</title>
+      <link>https://zia123-ai.github.io/post/location/</link>
+      <pubDate>Sat, 14 Mar 2020 21:46:24 +0800</pubDate>
+      
+      <guid>https://zia123-ai.github.io/post/location/</guid>
+      <description>welcome to this site!Look at your location.</description>
+    </item>
     
     <item>
       <title>First</title>
@@ -17,7 +26,7 @@
       <pubDate>Sat, 14 Mar 2020 21:08:59 +0800</pubDate>
       
       <guid>https://zia123-ai.github.io/post/first/</guid>
-      <description></description>
+      <description>It is a new hugo site,seeing it and the site was build successfully.</description>
     </item>
     
   </channel>
